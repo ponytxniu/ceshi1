@@ -53,7 +53,7 @@ reflex init
 When you run this command for the first time, we will download and install [bun](https://bun.sh/) automatically.
 
 This command initializes a template app in your new directory.
-
+当我们创建了my_app_name之后，我们可以将reflex后面的程序粘贴到my_app_name.py之后就可以run了
 ## 🏃 3. Run your app
 
 You can run this app in development mode:
